@@ -6,7 +6,7 @@ About Me
 
 🚀 When I'm not coding, you can find me enjoying sports, scrolling through social media, or gaming. I believe in a healthy work-life balance.
 
-Projects Highlights
+Projects Highlights 
 🔧 Here's the primary project you'll find in my repository:
 
 Expense Tracker: A simple web app to track your expenses and manage your budget.
